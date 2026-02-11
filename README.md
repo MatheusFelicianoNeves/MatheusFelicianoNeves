@@ -18,7 +18,7 @@
 
 ---
 
-## 🌐 Contato
+## 🌐 Contatos
 
 <p align="left">
   <a href="https://github.com/MatheusFelicianoNeves">
