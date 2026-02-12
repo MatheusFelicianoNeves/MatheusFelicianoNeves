@@ -12,7 +12,6 @@
 
 ## 🧪 Projetos
 
-- 🔎 **Jogo do Milhão em Python** (FATEC)
 - 🌐 **Configuração de VLAN e simulações em ambiente virtual** (SENAI - CCNA)
 - 🍔 **Sistema de Gestao de Inventario em Python** (Fatec)
 
