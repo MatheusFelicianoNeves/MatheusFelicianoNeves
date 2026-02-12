@@ -12,8 +12,8 @@
 
 ## 🧪 Projetos
 
-- 🌐 **Configuração de VLAN e simulações em ambiente virtual** (SENAI - CCNA)
-- 🍔 **Sistema de Gestao de Inventario em Python** (Fatec)
+- 🌐 **Configuração de VLAN e simulações em ambiente virtual** (SENAI SCS - CCNA)
+- 🍔 **Sistema de Gestao de Inventario em Python** (Fatec SCS)
 
 ---
 
